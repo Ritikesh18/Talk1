@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006257</color>
+    <color name="colorPrimaryDark">#005048</color>
+    <color name="colorAccent">#E6E6E6</color>
+    <color name="coloricon">#7cfc00</color>
+    <color name="colorfragment">#83AF9B</color>
+    <color name="colorbg">#5fc4d5</color>
+
+
+
+    <color name="colorlogin">#3D5069</color>
+    <color name="colorlogin1">#2A3c58</color>
+    <color name="colorlogin2">#192943</color>
+    <color name="colorlogin3">#8d4e44</color>
+    <color name="colorlogin4">#821b17</color>
+    <color name="colorlogin5">#ade95d</color>
+</resources>
